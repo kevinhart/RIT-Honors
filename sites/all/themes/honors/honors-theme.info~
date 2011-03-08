@@ -1,0 +1,4 @@
+name = honors-theme
+description = Honors theme.
+core = 7.x
+engine = phptemplate
